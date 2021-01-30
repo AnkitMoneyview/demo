@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 29 09:16:07 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-4c3f-8432-00000741e370 
+on database directory memory:/Users/ankit/Downloads/demo/d22d6365-67c8-4bd4-93e0-65a7ac5a5794 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/ankit/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=/Users/ankit/Downloads/demo
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
